@@ -1,0 +1,15 @@
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\Class 1 Project.exe
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\Class 1 Project.deps.json
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\Class 1 Project.runtimeconfig.json
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\Class 1 Project.dll
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\ref\Class 1 Project.dll
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\bin\Debug\net6.0\Class 1 Project.pdb
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.csproj.AssemblyReference.cache
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.AssemblyInfoInputs.cache
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.AssemblyInfo.cs
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.csproj.CoreCompileInputs.cache
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.dll
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\ref\Class 1 Project.dll
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.pdb
+C:\Users\bmontgomery\Desktop\Code KY\Class 1 Project\Class 1 Project\Class 1 Project\obj\Debug\net6.0\Class 1 Project.genruntimeconfig.cache
